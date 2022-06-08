@@ -1,5 +1,5 @@
-# blynk-trashcan-sensor
-Code and schematics for a Blynk-optimized trash bin level monitoring device.
+# 🗑 Blynk Trashcan Sensor
+Code and schematics for a Blynk-optimized trash can level monitoring device.
 
 ## Hardware Used
 - NodeMCU v1
